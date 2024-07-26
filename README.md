@@ -13,3 +13,4 @@ As aplicações podem ser executadas normalmente via **dotnet run**, a partir do
 
 ## Exemplo de trace gerado (visualização a partir do Grafana)
 
+![alt](docs/trace-01.png)
